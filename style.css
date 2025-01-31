@@ -1,3 +1,9 @@
-#gameimg {
-    size: 15px, 15px;
+.game-choice-img {
+    width: 100%;  
+    max-width: 150px; 
+    height: auto; 
+    margin-top: 10px;
 }
+
+  
+  
